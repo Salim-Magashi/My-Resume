@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Resume Website
 
 A modern, responsive personal resume website built with HTML, CSS, and JavaScript.
@@ -118,3 +119,6 @@ If you need help customizing your resume website:
 ## License
 
 This project is open source and available under the MIT License. 
+=======
+# My-Resume
+>>>>>>> d0b012eb947e697a4361c82f2e397e37c4778f35
